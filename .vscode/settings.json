@@ -1,0 +1,17 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02",
+    "solidity.defaultCompiler": "remote",
+    // "python.analysis.extraPaths": [
+    // "../../.local/bin",
+    // "../../Appdata/Roaming/Python/Python39/Scripts",
+    // "../../.local/pipx/venvs/eth-brownie",
+    // "../../Users/.local/pipx/venvs/eth-brownie/Scripts"
+    // "../../.local/pipx/venvs/eth-brownie/Lib/site-packages"
+    // ],
+    "python.envFile": ".env"
+}
+// "../../.local/bin",
+// "../../Appdata/Roaming/Python/Python39/Scripts",
+// "../../.local/pipx/venvs/eth-brownie",
+// "../../Users/.local/pipx/venvs/eth-brownie/Scripts",
+// "../../.local/pipx/venvs/eth-brownie/Lib/site-packages"
